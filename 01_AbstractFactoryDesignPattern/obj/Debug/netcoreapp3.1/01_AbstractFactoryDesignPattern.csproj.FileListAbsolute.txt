@@ -1,0 +1,26 @@
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.exe
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.deps.json
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.dll
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.pdb
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.dll
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.pdb
+C:\Users\samtehnik\source\repos\DesignPatterns\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.genruntimeconfig.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.exe
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.deps.json
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.runtimeconfig.json
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.dll
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\bin\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.pdb
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.dll
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.pdb
+C:\Users\samtehnik\source\repos\DesignPatterns\1 Generative\01_AbstractFactoryDesignPattern\obj\Debug\netcoreapp3.1\01_AbstractFactoryDesignPattern.genruntimeconfig.cache
