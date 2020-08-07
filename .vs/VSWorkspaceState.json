@@ -1,13 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DesignPatterns",
-    "\\DesignPatterns\\1 Generative design patterns",
-    "\\DesignPatterns\\1 Generative design patterns\\01_AbstractFactoryDesignPattern",
-    "\\DesignPatterns\\1 Generative design patterns\\01_AbstractFactoryDesignPattern\\bin\\Debug\\netcoreapp3.1",
-    "\\DesignPatterns\\1 Generative design patterns\\01_AbstractFactoryDesignPattern\\bin\\Release",
-    "\\DesignPatterns\\1 Generative design patterns\\01_AbstractFactoryDesignPattern\\bin\\Release\\netcoreapp3.1"
+    "\\1 Generative design patterns",
+    "\\1 Generative design patterns\\02_BuilderDesignPattern"
   ],
-  "SelectedNode": "\\DesignPatterns\\1 Generative design patterns\\01_AbstractFactoryDesignPattern\\bin",
+  "SelectedNode": "\\1 Generative design patterns\\02_BuilderDesignPattern\\02_BuilderDesignPattern.sln",
   "PreviewInSolutionExplorer": false
 }
