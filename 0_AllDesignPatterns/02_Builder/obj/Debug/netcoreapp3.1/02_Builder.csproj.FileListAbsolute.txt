@@ -1,0 +1,13 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\bin\Debug\netcoreapp3.1\02_Builder.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\bin\Debug\netcoreapp3.1\02_Builder.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\bin\Debug\netcoreapp3.1\02_Builder.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\bin\Debug\netcoreapp3.1\02_Builder.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\bin\Debug\netcoreapp3.1\02_Builder.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\bin\Debug\netcoreapp3.1\02_Builder.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.csprojAssemblyReference.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\02_Builder\obj\Debug\netcoreapp3.1\02_Builder.genruntimeconfig.cache

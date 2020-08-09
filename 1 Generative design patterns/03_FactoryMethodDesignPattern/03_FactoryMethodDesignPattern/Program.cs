@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _03_FactoryMethodDesignPattern.Pattern.Creators;
+using _03_FactoryMethodDesignPattern.Pattern.Products;
+using System;
 
 namespace _03_FactoryMethodDesignPattern
 {
@@ -6,7 +8,12 @@ namespace _03_FactoryMethodDesignPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Creator creator = new ConcreteCreator();
+            Product product = creator.FactoryMethod();
+
+            creator.AnOperation();
+
+            Console.WriteLine(product);
         }
     }
 }

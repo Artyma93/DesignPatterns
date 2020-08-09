@@ -1,0 +1,13 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\bin\Debug\netcoreapp3.1\04_Prototype.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\bin\Debug\netcoreapp3.1\04_Prototype.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\bin\Debug\netcoreapp3.1\04_Prototype.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\bin\Debug\netcoreapp3.1\04_Prototype.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\bin\Debug\netcoreapp3.1\04_Prototype.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\bin\Debug\netcoreapp3.1\04_Prototype.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.csprojAssemblyReference.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\04_Prototype\obj\Debug\netcoreapp3.1\04_Prototype.genruntimeconfig.cache

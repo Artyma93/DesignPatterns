@@ -1,0 +1,12 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\bin\Debug\netcoreapp3.1\01_AbstractFactory.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\bin\Debug\netcoreapp3.1\01_AbstractFactory.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\bin\Debug\netcoreapp3.1\01_AbstractFactory.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\bin\Debug\netcoreapp3.1\01_AbstractFactory.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\bin\Debug\netcoreapp3.1\01_AbstractFactory.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\bin\Debug\netcoreapp3.1\01_AbstractFactory.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.genruntimeconfig.cache
