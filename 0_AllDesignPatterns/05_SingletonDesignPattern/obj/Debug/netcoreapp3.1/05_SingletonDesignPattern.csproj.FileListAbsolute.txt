@@ -1,0 +1,13 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\bin\Debug\netcoreapp3.1\05_SingletonDesignPattern.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\bin\Debug\netcoreapp3.1\05_SingletonDesignPattern.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\bin\Debug\netcoreapp3.1\05_SingletonDesignPattern.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\bin\Debug\netcoreapp3.1\05_SingletonDesignPattern.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\bin\Debug\netcoreapp3.1\05_SingletonDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\bin\Debug\netcoreapp3.1\05_SingletonDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.csprojAssemblyReference.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\05_SingletonDesignPattern\obj\Debug\netcoreapp3.1\05_SingletonDesignPattern.genruntimeconfig.cache

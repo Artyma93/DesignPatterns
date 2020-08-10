@@ -1,0 +1,13 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\bin\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\bin\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\bin\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\bin\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\bin\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\bin\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.genruntimeconfig.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\00_CurrentTrainingDesignPattern\obj\Debug\netcoreapp3.1\00_CurrentTrainingDesignPattern.csprojAssemblyReference.cache
