@@ -2,29 +2,29 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _00_CurrentTrainingDesignPattern.Pattern
+namespace _05_SingletonDesignPattern.Pattern
 {
     class Singleton
     {
-        static Singleton singleton;
-        string singletonData = new String("");
+        static Singleton uniqueSingleton;
+        string singletonData;
 
         protected Singleton()
         {
 
         }
 
-        public static Singleton Instance()
+        public static Singleton Initial()
         {
-            if(singleton == null)
+            if(uniqueSingleton == null)
             {
-                singleton = new Singleton();
+                uniqueSingleton = new Singleton();
             }
 
-            return singleton;
+            return uniqueSingleton;
         }
 
-        public void SingletonOperation()
+        public void SingletonDataOperation()
         {
             singletonData = "SingletonData";
         }

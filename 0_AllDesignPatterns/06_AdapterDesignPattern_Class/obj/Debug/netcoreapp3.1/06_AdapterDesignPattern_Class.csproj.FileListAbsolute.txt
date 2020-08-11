@@ -1,0 +1,12 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\bin\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\bin\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\bin\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\bin\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\bin\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\bin\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.genruntimeconfig.cache
