@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00_CurrentTrainingDesignPat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_SingletonDesignPattern", "05_SingletonDesignPattern\05_SingletonDesignPattern.csproj", "{0ACE7CD7-1E2D-47C2-97DF-7432DDE650C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AdapterDesignPattern_Class", "06_AdapterDesignPattern_Class\06_AdapterDesignPattern_Class.csproj", "{4629FD82-DDB8-4FE5-B504-3B5D3807D6E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_AdapterDesignPattern_Class", "06_AdapterDesignPattern_Class\06_AdapterDesignPattern_Class.csproj", "{4629FD82-DDB8-4FE5-B504-3B5D3807D6E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_AdapterDesignPattern_Object", "06_AdapterDesignPattern_Object\06_AdapterDesignPattern_Object.csproj", "{D4DDB696-D757-47C3-BD0B-E1338A3E5D3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_AdapterDesignPattern_Object", "06_AdapterDesignPattern_Object\06_AdapterDesignPattern_Object.csproj", "{D4DDB696-D757-47C3-BD0B-E1338A3E5D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_BridgeDesignPattern", "07_BridgeDesignPattern\07_BridgeDesignPattern.csproj", "{B599BCA4-D8A9-4A7E-AE59-1A3036C79DD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D4DDB696-D757-47C3-BD0B-E1338A3E5D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DDB696-D757-47C3-BD0B-E1338A3E5D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DDB696-D757-47C3-BD0B-E1338A3E5D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B599BCA4-D8A9-4A7E-AE59-1A3036C79DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B599BCA4-D8A9-4A7E-AE59-1A3036C79DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B599BCA4-D8A9-4A7E-AE59-1A3036C79DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B599BCA4-D8A9-4A7E-AE59-1A3036C79DD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
