@@ -1,6 +1,5 @@
 ﻿
-using _00_CurrentTrainingDesignPattern.Pattern.Abstraction;
-using _00_CurrentTrainingDesignPattern.Pattern.Implementor;
+using _00_CurrentTrainingDesignPattern.Pattern;
 using System;
 
 namespace _00_CurrentTrainingDesignPattern
@@ -9,16 +8,20 @@ namespace _00_CurrentTrainingDesignPattern
     {
         static void Main(string[] args)
         {
-            AbstractImplementor implementor;
-            Abstraction abstraction;
+            AbstractComponent root = new Composite("root");
+            AbstractComponent branch1 = new Composite("BR1");
+            AbstractComponent branch2 = new Composite("BR2");
+            AbstractComponent leaf1 = new Leaf("L1");
+            AbstractComponent leaf2 = new Leaf("L2");
 
-            implementor = new ConcreteImplementorA();
-            abstraction = new RefinedAbstraction(implementor);
-            abstraction.Operation();
+            root.Add(branch1);
+            root.Add(branch2);
+            branch1.Add(leaf1);
+            branch2.Add(leaf2);
 
-            implementor = new ConcreteImplementorB();
-            abstraction = new RefinedAbstraction(implementor);
-            abstraction.Operation();
+            root.Operation();
+
+            branch2.GetChild(0).Operation();
 
         }
     }
