@@ -10,3 +10,4 @@ D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug
 D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.dll
 D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.pdb
 D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.genruntimeconfig.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\06_AdapterDesignPattern_Class\obj\Debug\netcoreapp3.1\06_AdapterDesignPattern_Class.csprojAssemblyReference.cache

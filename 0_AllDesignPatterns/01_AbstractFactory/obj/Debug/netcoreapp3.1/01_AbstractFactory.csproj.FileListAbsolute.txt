@@ -10,3 +10,4 @@ D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp
 D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.dll
 D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.pdb
 D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.genruntimeconfig.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\01_AbstractFactory\obj\Debug\netcoreapp3.1\01_AbstractFactory.csprojAssemblyReference.cache

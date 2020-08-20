@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _07_BridgeDesignPattern.Pattern.Abstraction
 {
- abstract   class Abstraction
+    abstract class Abstraction
     {
         AbstractionImplementor implementor;
         public Abstraction(AbstractionImplementor implementor)
