@@ -1,0 +1,12 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\bin\Debug\netcoreapp3.1\10_FacadeDesignPattern.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\bin\Debug\netcoreapp3.1\10_FacadeDesignPattern.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\bin\Debug\netcoreapp3.1\10_FacadeDesignPattern.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\bin\Debug\netcoreapp3.1\10_FacadeDesignPattern.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\bin\Debug\netcoreapp3.1\10_FacadeDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\bin\Debug\netcoreapp3.1\10_FacadeDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\obj\Debug\netcoreapp3.1\10_FacadeDesignPattern.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\obj\Debug\netcoreapp3.1\10_FacadeDesignPattern.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\obj\Debug\netcoreapp3.1\10_FacadeDesignPattern.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\obj\Debug\netcoreapp3.1\10_FacadeDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\obj\Debug\netcoreapp3.1\10_FacadeDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\10_FacadeDesignPattern\obj\Debug\netcoreapp3.1\10_FacadeDesignPattern.genruntimeconfig.cache

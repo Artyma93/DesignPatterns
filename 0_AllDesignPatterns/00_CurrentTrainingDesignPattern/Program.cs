@@ -1,6 +1,5 @@
 ﻿
-using _00_CurrentTrainingDesignPattern.Pattern.Components;
-using _00_CurrentTrainingDesignPattern.Pattern.Decorators;
+using _00_CurrentTrainingDesignPattern.Pattern;
 using System;
 
 namespace _00_CurrentTrainingDesignPattern
@@ -9,14 +8,10 @@ namespace _00_CurrentTrainingDesignPattern
     {
         static void Main(string[] args)
         {
-            AbstractComponent component = new ConcreteComponent();
-            AbstractDecorator decoratorA = new ConcreteDecoratorA();
-            AbstractDecorator decoratorB = new ConcreteDecoratorB();
+            Facade facade = new Facade();
 
-            decoratorA.Component = component;
-            decoratorB.Component = decoratorA;
-
-            decoratorB.Operation();
+            facade.OperationAB();
+            facade.OperationBC();
         }
     }
 }
