@@ -5,13 +5,13 @@ using System.Text;
 
 namespace _09_DecoratorDesignPattern.Pattern.Decorators
 {
- abstract   class AbstractDecorator : AbstractComponent
+    abstract class AbstractDecorator : AbstractComponent
     {
         public AbstractComponent Component { protected get; set; }
 
         public override void Operation()
         {
-            if(Component != null)
+            if (Component != null)
             {
                 Component.Operation();
             }

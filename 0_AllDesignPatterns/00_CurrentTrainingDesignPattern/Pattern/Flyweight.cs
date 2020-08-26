@@ -4,11 +4,8 @@ using System.Text;
 
 namespace _00_CurrentTrainingDesignPattern.Pattern
 {
-    class SubSystemC
+    abstract class Flyweight
     {
-        public void OperationC()
-        {
-            Console.WriteLine("OperationC");
-        }
+        public abstract void Operation(ConsoleColor extrinsicState);
     }
 }

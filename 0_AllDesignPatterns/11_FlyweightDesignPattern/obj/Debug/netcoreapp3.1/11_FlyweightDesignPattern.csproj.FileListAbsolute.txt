@@ -1,0 +1,13 @@
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\bin\Debug\netcoreapp3.1\11_FlyweightDesignPattern.exe
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\bin\Debug\netcoreapp3.1\11_FlyweightDesignPattern.deps.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\bin\Debug\netcoreapp3.1\11_FlyweightDesignPattern.runtimeconfig.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\bin\Debug\netcoreapp3.1\11_FlyweightDesignPattern.runtimeconfig.dev.json
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\bin\Debug\netcoreapp3.1\11_FlyweightDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\bin\Debug\netcoreapp3.1\11_FlyweightDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.csprojAssemblyReference.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.AssemblyInfoInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.AssemblyInfo.cs
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.dll
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.pdb
+D:\C#\DesignPatterns\0_AllDesignPatterns\11_FlyweightDesignPattern\obj\Debug\netcoreapp3.1\11_FlyweightDesignPattern.genruntimeconfig.cache
