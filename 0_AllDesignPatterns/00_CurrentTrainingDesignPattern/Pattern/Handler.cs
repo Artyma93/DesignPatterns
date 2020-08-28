@@ -4,11 +4,10 @@ using System.Text;
 
 namespace _00_CurrentTrainingDesignPattern.Pattern
 {
-    class RealSubject : Subject
+    abstract class Handler
     {
-        public override void Request()
-        {
-            Console.WriteLine("RealSubject");
-        }
+        public Handler Successor { get; set; }
+
+        public abstract void HandleRequest(int request);
     }
 }
